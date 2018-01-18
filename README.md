@@ -1,10 +1,11 @@
-# Preamp Two
+# Headphone Amp + Preamp
 
-Here is the Arduino code and PCB layout files to build a high fidelity preamplifier. It has the following features:
+This project is based on "preamp two" from Max Williams. It has the following features:
 
   * A precision volume control using a R2R multiplying DAC
-  * 6 input selector with mute
-  * Volume and input control via rotary encoders and infrared remote.
+  * 3 input selector with mute
+  * Dedicated headphone preamp for heavier loads
+  * Volume and input control via rotary encoders and an ESP32.
   * Start-up mute.
 
 ![All together 1](../master/images/all-together-1.jpg?raw=true)
